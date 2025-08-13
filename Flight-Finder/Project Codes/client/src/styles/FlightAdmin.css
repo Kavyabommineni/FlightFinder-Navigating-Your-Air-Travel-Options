@@ -1,0 +1,36 @@
+.flightAdmin-page{
+
+    padding-top: 10vh;
+    height: 100vh;
+}
+
+.notApproved-box{
+
+    width: 60%;
+    text-align: center;
+    margin: 30vh 20%;
+    background-color: rgba(237, 239, 241, 0.692);
+    padding: 4vh 4vw;
+}
+
+.notApproved-box h3{
+
+    color: #e35252;
+}
+
+.notApproved-box p{
+
+    color: rgb(82, 102, 120);
+}
+.marquee {
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 24px;
+  box-sizing: border-box;
+  background-color:powderblue;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-top:90px;
+
+  
+}
